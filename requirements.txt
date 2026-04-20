@@ -1,5 +1,4 @@
 flask
-gunicorn
 deepface
 tf-keras
 opencv-python-headless
