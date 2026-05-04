@@ -1,6 +1,27 @@
+# ============================================================
+# DEPENDANCES PYTHON - SERVEUR DEEPFACE HUGGING FACE
+# ============================================================
+
+# Framework web utilisé pour créer l'API Flask.
+# Sert à exposer les routes /health et /analyze.
 flask
+
+# Bibliothèque principale utilisée pour analyser les émotions du visage.
+# Elle s'appuie notamment sur TensorFlow.
 deepface
+
+# Compatibilité Keras pour TensorFlow.
+# Nécessaire avec certaines versions récentes de TensorFlow / DeepFace.
 tf-keras
+
+# Version OpenCV sans interface graphique.
+# Plus légère et adaptée aux serveurs Docker / Hugging Face.
 opencv-python-headless
+
+# Version CPU de TensorFlow.
+# Utilisée car le Space Hugging Face fonctionne ici sans GPU.
 tensorflow-cpu
+
+# Bibliothèque de calcul utilisée pour manipuler les tableaux d'image.
+# Sert notamment à convertir les bytes de l'image en tableau exploitable par OpenCV.
 numpy
