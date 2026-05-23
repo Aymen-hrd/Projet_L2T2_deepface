@@ -7,7 +7,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-Ce dépôt fait partie du projet **EmoTrack**. Le dépôt principal (application Flask) est disponible ici : [EmoTrack — Application principale](#)
+Ce dépôt fait partie du projet **EmoTrack**. Le dépôt principal (application Flask) est disponible ici : [EmoTrack - Application principale](https://github.com/Aymen-hrd/Projet-L2T2-FLASK)
 
 ---
 
