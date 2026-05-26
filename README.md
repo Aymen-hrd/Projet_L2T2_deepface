@@ -1,6 +1,6 @@
 # EmoTrack — Serveur DeepFace
 
-> Service d'analyse faciale des émotions — déployé sur Hugging Face Spaces.
+> Service d'analyse faciale des émotions déployé sur Hugging Face Spaces.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -137,7 +137,7 @@ Le serveur démarre sur http://localhost:7860
 
 ## 7. Auteurs
 
-Projet réalisé dans le cadre du L2 Informatique et Applications — Université Paris Cité (2025-2026)  
+Projet réalisé dans le cadre du L2 Informatique et Applications -  Université Paris Cité (2025-2026)  
 Encadrant : M. Gnaho
 
 - Lisa Swiatek-Hugon
